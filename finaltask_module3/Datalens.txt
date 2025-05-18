@@ -1,1 +1,0 @@
-Ссылка на дашборд с анализом продаж по данным из ClickHouse: https://datalens.yandex/7gd5bjz39d4mt
